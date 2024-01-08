@@ -1,0 +1,11 @@
+.container {
+    padding: 50px;
+}
+h1 {
+    text-align: center;
+}
+span {
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
