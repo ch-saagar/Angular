@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'learn-Databinding';
-  firstname = "Sagar Singh"
+  firstname = " Data BINDER"
   imagepath = "assets/tekizma_inc_tekizma_bi_image.png"
   defaultVal = "Tekizma"
 
